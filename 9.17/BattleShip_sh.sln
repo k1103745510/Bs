@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BattleShip_sh", "BattleShip_sh\BattleShip_sh.vcxproj", "{CFAA73AB-0889-4394-95D4-52E54E0A10F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BattleShip_PP", "BattleShip_PP\BattleShip_PP.vcxproj", "{154CA78D-9AE2-4801-8ABD-0A2EB1E72C72}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{190627C8-71CB-4E87-AEBF-E73EA85B3BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAA73AB-0889-4394-95D4-52E54E0A10F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFAA73AB-0889-4394-95D4-52E54E0A10F5}.Debug|Win32.Build.0 = Debug|Win32
+		{CFAA73AB-0889-4394-95D4-52E54E0A10F5}.Release|Win32.ActiveCfg = Release|Win32
+		{CFAA73AB-0889-4394-95D4-52E54E0A10F5}.Release|Win32.Build.0 = Release|Win32
+		{154CA78D-9AE2-4801-8ABD-0A2EB1E72C72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{154CA78D-9AE2-4801-8ABD-0A2EB1E72C72}.Debug|Win32.Build.0 = Debug|Win32
+		{154CA78D-9AE2-4801-8ABD-0A2EB1E72C72}.Release|Win32.ActiveCfg = Release|Win32
+		{154CA78D-9AE2-4801-8ABD-0A2EB1E72C72}.Release|Win32.Build.0 = Release|Win32
+		{190627C8-71CB-4E87-AEBF-E73EA85B3BC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{190627C8-71CB-4E87-AEBF-E73EA85B3BC4}.Debug|Win32.Build.0 = Debug|Win32
+		{190627C8-71CB-4E87-AEBF-E73EA85B3BC4}.Release|Win32.ActiveCfg = Release|Win32
+		{190627C8-71CB-4E87-AEBF-E73EA85B3BC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
